@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Log Analysis Report by Mohammed Abdul Moiz</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 20px;
+        background-color: #f4f4f9;
+        color: #333;
+      }
+      h1, h2 {
+        text-align: center;
+        color: #0047ab;
+      }
+      table {
+        width: 80%;
+        margin: 20px auto;
+        border-collapse: collapse;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        background-color: #ffffff;
+      }
+      th, td {
+        border: 1px solid #dddddd;
+        text-align: center;
+        padding: 10px;
+      }
+      th {
+        background-color: #0047ab;
+        color: white;
+        font-weight: bold;
+      }
+      tr:nth-child(even) {
+        background-color: #f9f9f9;
+      }
+      tr:hover {
+        background-color: #f1f1f1;
+      }
+      p {
+        text-align: center;
+        font-size: 18px;
+        font-style: italic;
+        color: #333;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Log Analysis Report</h1>
+
+    <h2>Summary Statistics</h2>
+    <p>Total Requests: 35</p>
+    <p>Unique IPs: 5</p>
+    <p>Total Bandwidth Used: 11.30 KB</p>
+    <p>Analysis Time Range: 2024-12-03 10:12:34+00:00 to 2024-12-03 10:13:07+00:00</p>
+
+    <h2>Requests Per IP</h2>
+    <table>
+      <tr>
+        <th>IP Address</th>
+        <th>Request Count</th>
+      </tr>
+      <tr><td>203.0.113.5</td><td>9</td></tr>
+      <tr><td>198.51.100.23</td><td>8</td></tr>
+      <tr><td>192.168.1.1</td><td>7</td></tr>
+      <tr><td>10.0.0.2</td><td>6</td></tr>
+      <tr><td>192.168.1.100</td><td>5</td></tr>
+    </table>
+
+    <h2>Most Accessed Endpoints</h2>
+    <table>
+      <tr>
+        <th>Endpoint</th>
+        <th>Hit Count</th>
+      </tr>
+      <tr><td>/login</td><td>14</td></tr>
+      <tr><td>/home</td><td>5</td></tr>
+      <tr><td>/about</td><td>5</td></tr>
+      <tr><td>/dashboard</td><td>3</td></tr>
+      <tr><td>/contact</td><td>2</td></tr>
+      <tr><td>/register</td><td>2</td></tr>
+      <tr><td>/profile</td><td>2</td></tr>
+      <tr><td>/feedback</td><td>2</td></tr>
+    </table>
+
+    <h2>Suspicious Activity</h2>
+
+    <table>
+      <tr>
+        <th>IP Address</th>
+        <th>Failed Login Attempts</th>
+      </tr>
+      <tr><td>203.0.113.5</td><td>9</td></tr>
+      <tr><td>192.168.1.100</td><td>5</td></tr>
+    </table>
+
+  </body>
+</html>
