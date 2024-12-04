@@ -79,7 +79,7 @@ Supports standard Apache/Nginx log formats
 - Sample log file (`sample.log`) included for testing
 
 ## 🖼️ Sample Output
-![Log Analysis Report](log_analysis_report.png)
+![Log Analysis Report](log_analysis_report-1.png)
 <img width="1680" alt="image" src=".....">
 
 ## 🛡️ Security Notes
