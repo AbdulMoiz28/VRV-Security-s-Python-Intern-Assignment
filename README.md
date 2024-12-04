@@ -31,7 +31,7 @@ A robust Python-based log analysis tool that extracts insights from web server l
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/log-analysis-system.git
+git clone https://github.com/AbdulMoiz28/VRV-Security-s-Python-Intern-Assignment.git
 cd log-analysis-system
 ```
 
