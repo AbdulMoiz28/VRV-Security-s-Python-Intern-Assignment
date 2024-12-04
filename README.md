@@ -89,6 +89,7 @@ https://github.com/AbdulMoiz28/VRV-Security-s-Python-Intern-Assignment/blob/main
 
 ## 💡 Requirements
 - Python Libraries:
+```bash
   - `re`
   - `csv`
   - `collections`
