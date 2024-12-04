@@ -79,8 +79,8 @@ Supports standard Apache/Nginx log formats
 - Sample log file (`sample.log`) included for testing
 
 ## 🖼️ Sample Output
-![Log Analysis Report](log_analysis_report-1.png)
-<img width="1680" alt="image" src=".....">
+![Log Analysis Report]
+<img width="1680" alt="image" src="log_analysis_report-1.png">
 
 ## 🛡️ Security Notes
 - Flags IPs with multiple failed login attempts
