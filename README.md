@@ -79,8 +79,9 @@ Supports standard Apache/Nginx log formats
 - Sample log file (`sample.log`) included for testing
 
 ## 🖼️ Sample Output
-![Log Analysis Report]
+https://github.com/AbdulMoiz28/VRV-Security-s-Python-Intern-Assignment/blob/main/VRV%20-%20Log%20Analysis%20Script/log_analysis_report-2.png
 <img width="1680" alt="image" src="https://github.com/AbdulMoiz28/VRV-Security-s-Python-Intern-Assignment/blob/main/VRV%20-%20Log%20Analysis%20Script/log_analysis_report-1.png">
+<img width="1680" alt="image" src="https://github.com/AbdulMoiz28/VRV-Security-s-Python-Intern-Assignment/blob/main/VRV%20-%20Log%20Analysis%20Script/log_analysis_report-2.png">
 
 ## 🛡️ Security Notes
 - Flags IPs with multiple failed login attempts
